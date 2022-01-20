@@ -10,7 +10,7 @@
 
 
 
-<h4> 참조사이트 : https://d2.naver.com/helloworld/1848131</h4>
+<h4> 참조사이트 : https://baeharam.netlify.app/posts/architecture/flux-redux</h4>
 
 <h4>  https://d2.naver.com/helloworld/1848131</h4>
 
